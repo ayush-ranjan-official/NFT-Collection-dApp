@@ -1,4 +1,4 @@
-export const NFT_CONTRACT_ADDRESS = "0x66cd74E35aDC818CB365a5D36D852094Bd166C1a";
+export const NFT_CONTRACT_ADDRESS = "0x78Bf92242C633116b92A7f305b467Fd5C7655D1C";
 
 // To get the abi for your contract, go to your C:\Users\ayush\OneDrive\Desktop\Blockchain\NFT-Collection-dApp\hardhat-folder\artifacts\contracts\CryptoDevs.sol\CryptoDevs.json folder and from your CryptoDevs.json file get the array marked under the "abi" key.
 export const abi = [
